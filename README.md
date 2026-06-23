@@ -1,5 +1,5 @@
 This repo is dedicated to Chess1M (a.k.a. Fischer Double Random Chess) which is like Chess960 but allows asymmetric starting positions for Black and White.
-This results in 960 x 960 = 921,600 possible starting positions - just shy of one million (hence the name 'Chess1m').
+This results in 960 x 960 = 921,600 possible starting positions - just shy of one million (hence the name 'Chess1m'). Castling rules are the same as in Chess960.
 
 There are several parts:
 (1)  Generation of Chess960 and Chess1M reference tables: these include standard FEN and Shredder FEN positions.
