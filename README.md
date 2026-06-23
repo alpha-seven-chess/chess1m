@@ -9,4 +9,4 @@ There are several parts:
 #WIP (4)  Tool to merge output files from multiple valuation runs.
 #WIP (5)  Tool to analyse distribution of starting score for visual analysis.
 #WIP (6)  Tool to randomly select a single starting position from the Chess1M position given user-defined minimum/maximum evaluation score.
-#WIP      This tool can be used for running tournaments using the Chess1m format.
+#WIP      This tool can be used for running tournaments using the Chess1M format.
