@@ -1,4 +1,8 @@
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+## License
+
+This project is licensed under the
+[PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).
+Commercial use requires explicit written permission.
 
 This repo is dedicated to Chess1M (a.k.a. Fischer Double Random Chess) which is like Chess960 (a.k.a. Fischer Random) but allows asymmetric starting positions for Black and White.
 This results in 960 x 960 = 921,600 possible starting positions - just shy of one million (hence the name 'Chess1M'). Castling rules are the same as in Chess960.
